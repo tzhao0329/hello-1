@@ -1,5 +1,6 @@
 /**
  * Author: Yazhe Wang
+ * Author: Tingting Zhao
  * Date: 2022/08/26
  *
  * A simple hello world program in C
@@ -12,6 +13,8 @@ int main(int argc, char **argv) {
 
   printf("Yazhe Wang\n");
   printf("Major: Economics! \n");
+  printf("Tingting Zhao\n");
+  printf("Major: Mathematics! \n");
   
   return 0;
 }
